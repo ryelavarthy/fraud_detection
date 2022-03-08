@@ -1,1 +1,1 @@
-print ("data processing Python code related to Fraud detection")
+print ("data processing code related to Fraud detection")
